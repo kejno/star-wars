@@ -1,21 +1,4 @@
-CONTEXT
---------
+Информационный сайт о персонажах, планетах, кораблях из фильмов StarWars на REACT JS с использованием API
 
-<App>
-  <Provider value={chatService}>
-    <HomePage>
-      <Dashboard>
-        <NewNotifications>
-        </NewNotifications>
-      </Dashboard>
-    </HomePage>
-  
-    <SupportPage>
-      <MyOpenTickets />
-      <TeamSpace>
-        <Chat>
-        </Chat>
-      </TeamSpace>
-    </SupportPage>
-  </Provider>
-</App>
+
+
